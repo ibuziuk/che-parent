@@ -15,7 +15,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.eclipse.che.parent</groupId>
     <artifactId>maven-parent-pom</artifactId>
-    <version>5.0.0-M9-SNAPSHOT</version>
+    <version>5.0.0-M8-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Che parent POM</name>
     <description>Provides default project configuration for Che projects</description>
@@ -1442,7 +1442,6 @@
                                                 <exclude>org.apache.xalan:xalan</exclude>
                                                 <exclude>org.slf4j:slf4j-nop</exclude>
                                                 <exclude>org.slf4j:slf4j-jdk14</exclude>
-                                                <exclude>org.slf4j:slf4j-log4j12</exclude>
                                                 <exclude>org.slf4j:slf4j-log4j13</exclude>
                                                 <exclude>stax:stax-api</exclude>
                                                 <exclude>sun-jaxb:jaxb-api</exclude>
